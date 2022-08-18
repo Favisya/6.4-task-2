@@ -1,0 +1,14 @@
+.DessertPicture{
+    z-index: 0;
+    padding: 10px;
+}
+
+.ExpandButton{
+    z-index: 1;
+    position: relative;
+    width: 40px;
+    border: solid 1px black;
+    bottom: 23px;
+    right: 70px;
+    background: rgba(255,255,255,50%);
+}
