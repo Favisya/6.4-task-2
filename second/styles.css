@@ -1,0 +1,49 @@
+.LoginFormDiv{
+    margin: auto;
+    padding: 30px 50px;
+    box-shadow: 0 0 3px #626a72;
+    width: 20%;
+    background: white;
+}
+
+.loginBodyColor{
+    background: #eae6df;
+}
+
+.LoginFormPos{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputLogin{
+    width: 100%;
+    height: 30px;
+    border: solid 1px lightgray;
+    margin-bottom: 20px;
+}
+
+.LoginFormCheckBox{
+    font-style: italic;
+    flex-direction: row;
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+.formH2{
+    text-align: center;
+}
+
+.SubmitButtonDiv{
+    text-align: center;
+}
+
+.SubmitButton{
+    width: 100%;
+    padding:10px 15px;
+    background: #a2744b;
+    border:0 none;
+    cursor:pointer;
+    color: white;
+}
+
