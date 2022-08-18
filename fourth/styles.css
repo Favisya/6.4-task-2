@@ -1,0 +1,13 @@
+.ModuleBody{
+    background: #497775;;
+}
+
+.ModuleContainer{
+    padding: 20px;
+    background: white;
+    width: 300px;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #626a72;
+    margin-left: 50px;
+    height: 150px;
+}
