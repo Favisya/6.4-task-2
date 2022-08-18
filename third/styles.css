@@ -1,0 +1,15 @@
+.footerFixed{
+    border-top:solid 5px deepskyblue;
+    position: fixed;
+    width: 100%;
+    text-align: left;
+    color: white;
+    background: black;
+    padding: 20px;
+    bottom: 0;
+}
+
+.bodyFooter{
+    margin: 0;
+    height: 4000px;
+}
