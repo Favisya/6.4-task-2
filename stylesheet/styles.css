@@ -8,6 +8,7 @@
 
 body{
     background: #eae6df;
+    margin: 0;
 }
 
 .login-form-input-wrapper{
@@ -47,3 +48,51 @@ body{
     color: white;
 }
 
+.post-container-error {
+    z-index: 0;
+    opacity: 0.9;
+    box-shadow: 7px 7px 3px #495b6c;
+    padding: 30px;
+    background: #e0d5cc;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.font-error{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.main-error{
+    margin: auto;
+    width: 50%;
+    padding: 11.97%;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+    background: rgba(0,0,0,60%);
+    margin-top: 100px;
+}
+
+.link {
+    box-shadow: 7px 7px 3px #495b6c;
+    color: black;
+    padding: 3px;
+    background: darkgrey;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+.link:hover {
+    transition: .3s;
+    background: gray;
+}
+
+img {
+    box-shadow: 7px 7px 3px #495b6c;
+    border-radius: 30px;
+}
