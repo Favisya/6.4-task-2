@@ -1,4 +1,4 @@
-.footerFixed{
+.footer{
     border-top:solid 5px deepskyblue;
     position: fixed;
     width: 100%;
@@ -9,7 +9,8 @@
     bottom: 0;
 }
 
-.bodyFooter{
+body{
     margin: 0;
+    background: white;
     height: 4000px;
 }

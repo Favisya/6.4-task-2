@@ -1,8 +1,8 @@
-.ModuleBody{
-    background: #497775;;
+body{
+    background: #497775;
 }
 
-.ModuleContainer{
+.text-container{
     padding: 20px;
     background: white;
     width: 300px;
